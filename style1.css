@@ -41,20 +41,15 @@ header img {
   border-radius: 5px;
 }
 
-.banner .content .content-header {
+.banner .content {
   font-family: "Odibee Sans", sans-serif;
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  border: 1px solid #fff;
-  border-radius: 5px;
-  padding-left: 30px;
-  padding-right: 30px;
-  margin-bottom: 3px;
 }
 
-.banner .content .content-header h1 {
+.banner .content h1 {
   font-size: 17em;
   /* font-size: 8.5em; */
 }
