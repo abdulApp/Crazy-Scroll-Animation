@@ -36,7 +36,7 @@ header img {
   height: 30px;
 }
 
-.header-style{
+.header-style {
   border: 1px solid #fff;
   border-radius: 5px;
   margin-bottom: 5px;
@@ -57,6 +57,16 @@ header img {
 
 .banner .content .content-header h1 {
   font-size: 17em;
+  /* font-size: 8.5em; */
+}
+
+.banner .content .content-header h1::first-letter {
+  color: blue;
+  /* font-size: 8.5em; */
+}
+
+.banner .content .content-header h1 {
+  color: blue;
   /* font-size: 8.5em; */
 }
 
@@ -180,7 +190,7 @@ footer .content {
   padding: 100px 20px;
 }
 
-footer .content div{
+footer .content div {
   margin-bottom: 20px;
 }
 
